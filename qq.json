@@ -311,7 +311,7 @@
     },
     "贴吧表情":{
         "type": "image",
-        "containe": [
+        "container": [
             {
                 "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_laugh.png\">",
                 "text": "tieba_laugh"
