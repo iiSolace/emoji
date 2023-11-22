@@ -28,7 +28,7 @@
             {"icon": "╮(╯▽╰)╭ ","text": "无奈"},
             {"icon": "o(*////▽////*)q ","text": "脸红"},
             {"icon": "＞﹏＜","text": ""},
-            {"icon": "( ๑´•ω•) \"(ㆆᴗㆆ)","text": ""},
+            {"icon": "( ๑´•ω•) \"(ㆆᴗㆆ)","text": ""}
         ]
     },
     "QQ表情": {
@@ -306,7 +306,7 @@
             {"text": "qq-270","icon": "https://blog.imashimaro.com/emoji/qq/270@2x.gif"},
             {"text": "qq-271","icon": "https://blog.imashimaro.com/emoji/qq/271@2x.gif"},
             {"text": "qq-272","icon": "https://blog.imashimaro.com/emoji/qq/272@2x.gif"},
-            {"text": "qq-273","icon": "https://blog.imashimaro.com/emoji/qq/273@2x.gif"},
+            {"text": "qq-273","icon": "https://blog.imashimaro.com/emoji/qq/273@2x.gif"}
         ]
     },
     "Emoji": {
@@ -338,7 +338,7 @@
             {"icon": "<img src=\"https://owo.imaegoo.com/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">","text": "tv_尴尬"},
             {"icon": "<img src=\"https://owo.imaegoo.com/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">","text": "tv_微笑"},
             {"icon": "<img src=\"https://owo.imaegoo.com/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">","text": "tv_思考"},
-            {"icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">","text": "tv_惊吓"},
+            {"icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">","text": "tv_惊吓"}
         ]
     }
 }
