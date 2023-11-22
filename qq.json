@@ -1,4 +1,172 @@
 {
+    "贴吧表情":{
+        "type": "image",
+        "containe": [
+            {
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_laugh.png\">",
+                "text": "tieba_laugh"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_joy.png\">",
+                "text": "tieba_joy"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_antic.png\">",
+                "text": "tieba_antic"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_vomit_water.png\">",
+                "text": "tieba_vomit_water"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_sob.png\">",
+                "text": "tieba_sob"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_wink.png\">",
+                "text": "tieba_wink"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_cry.png\">",
+                "text": "tieba_cry"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_dizzy_face.png\">",
+                "text": "tieba_dizzy_face"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_heart_eyes.png\">",
+                "text": "tieba_heart_eyes"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_huge_sweat.png\">",
+                "text": "tieba_huge_sweat"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_rage.png\">",
+                "text": "tieba_rage"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_satisfied.png\">",
+                "text": "tieba_satisfied"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_sleep.png\">",
+                "text": "tieba_sleep"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_smirk.png\">",
+                "text": "tieba_smirk"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_sunglasses.png\">",
+                "text": "tieba_sunglasses"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_sweat.png\">",
+                "text": "tieba_sweat"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_vomit.png\">",
+                "text": "tieba_vomit"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_lovely.png\">",
+                "text": "tieba_lovely"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_angry.png\">",
+                "text": "tieba_angry"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_annoyed.png\">",
+                "text": "tieba_annoyed"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_awkward.png\">",
+                "text": "tieba_awkward"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_cute.png\">",
+                "text": "tieba_cute"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_pick_nose.png\">",
+                "text": "tieba_pick_nose"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_shy.png\">",
+                "text": "tieba_shy"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_yum.png\">",
+                "text": "tieba_yum"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_grievance.png\">",
+                "text": "tieba_grievance"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_chuckle.png\">",
+                "text": "tieba_chuckle"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_crazy.png\">",
+                "text": "tieba_crazy"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_hurt.png\">",
+                "text": "tieba_hurt"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_look_down.png\">",
+                "text": "tieba_look_down"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_rolling_eyes.png\">",
+                "text": "tieba_rolling_eyes"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_agree.png\">",
+                "text": "tieba_agree"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_sorry.png\">",
+                "text": "tieba_sorry"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_surprised.png\">",
+                "text": "tieba_surprised"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_wow.png\">",
+                "text": "tieba_wow"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_doubt.png\">",
+                "text": "tieba_doubt"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_thumbsup.png\">",
+                "text": "tieba_thumbsup"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_v.png\">",
+                "text": "tieba_v"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_metal.png\">",
+                "text": "tieba_metal"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_ok.png\">",
+                "text": "tieba_ok"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_heart.png\">",
+                "text": "tieba_heart"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_red_scarf.png\">",
+                "text": "tieba_red_scarf"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_sofa.png\">",
+                "text": "tieba_sofa"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_moon.png\">",
+                "text": "tieba_moon"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_pill.png\">",
+                "text": "tieba_pill"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_rainbow.png\">",
+                "text": "tieba_rainbow"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_rose.png\">",
+                "text": "tieba_rose"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_shit.png\">",
+                "text": "tieba_shit"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_banana.png\">",
+                "text": "tieba_banana"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_toilet_paper.png\">",
+                "text": "tieba_toilet_paper"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_cake.png\">",
+                "text": "tieba_cake"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_gift.png\">",
+                "text": "tieba_gift"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_candle.png\">",
+                "text": "tieba_candle"
+            },{
+                "icon": "<img src=\"https://unpkg.com/@waline/emojis@1.2.0/tieba_coffee.png\">",
+                "text": "tieba_coffee"
+            }
+        ]
+    },
     "颜文字": {
         "type": "emoticon",
         "container": [
